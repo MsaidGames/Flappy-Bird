@@ -1,14 +1,13 @@
-# Pong Game
+# Flappy-Bird
 
-A modern take on the classic Pong game built with Unity, featuring physics-based gameplay and collectible pickups.
+A modern recreation of the classic Flappy Bird game built with Unity, featuring smooth gameplay and engaging mechanics.
 
 ## 🚀 Features
 
-- Two-player local multiplayer
-- Classic ping pong mechanics
-- Score tracking for both players
-- Smooth paddle movement
-- Realistic ball physics
-
+- Classic Flappy Bird gameplay mechanics
+- Score tracking and high score system
+- Smooth bird movement and physics
+- Procedurally generated obstacles
+- Beautiful visual effects
 
 Made using Unity
